@@ -1,4 +1,6 @@
-# BINARY CLASSIFICATION
+### EX NO:02
+### DATE:
+# <p align="center">BINARY CLASSIFICATION <p/>
 ## AIM:
 
 To write a python program to perform binary classification.
@@ -24,6 +26,7 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 ## PROGRAM:
 
 ```python
+
 #Program to implement binary classification.
 #Developed by: Aishree Ramesh
 #Register Number: 212220230003
